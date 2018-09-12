@@ -1,0 +1,16 @@
+{
+  "name": "tribute-page-free-code-camp",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Archipicture",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "bulma-carousel": "^3.0.0"
+  }
+}
