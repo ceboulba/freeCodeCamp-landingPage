@@ -1,0 +1,10 @@
+$blue-archipicture: hsl(190, 77%, 68%) !default;
+
+hr {
+  display: block;
+  height: 1px;
+  //border: 0;
+  border-top: 1px solid $blue-archipicture;
+  margin: 0 0;
+  padding: 0;
+}
